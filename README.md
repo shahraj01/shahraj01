@@ -1,9 +1,9 @@
-# Hi, I'm [Shahraj khan Jitu] 👋
+# Hi, I'm Shahraj khan Jitu 👋
 
-🎓 SWE student at [Daffodil International University]
-💻 Learning C programming
-🌱 Currently exploring: Data Structures, Algorithms
-📫 Reach me at: [shahrajk01@gmail.com]
+- 🎓 SWE student at Daffodil International University
+- 💻 Learning C programming
+- 🌱 Currently exploring: Data Structures, Algorithms
+- 📫 Reach me at: shahrajk01@gmail.com
 
 ## 🛠️ Skills
 
