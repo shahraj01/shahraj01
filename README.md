@@ -3,7 +3,7 @@
 - 🎓 SWE student at Daffodil International University
 - 💻 Learning C programming
 - 🌱 Currently exploring: Data Structures, Algorithms
-- 📫 Reach me at: shahrajk01@gmail.com
+- 📫 Reach me at:
 
 ## 🛠️ Skills
 
